@@ -172,6 +172,11 @@ li {
   max-width: 800px;
   margin: 0 auto;
 }
+.main-visual-logo {
+  width: 50%;
+  margin-right: 20px;
+  border-radius: 50%;
+}
 .main-visual-img {
   width: 20%;
   margin-right: 30px;
