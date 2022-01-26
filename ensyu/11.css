@@ -14,5 +14,6 @@ p.mincho {
 .em{font-size: 2em;}
 .normal{font-weight: normal;}
 .bold{font-weight: bold;}
-p.left{text-align: center;}
-p.right{text-align: center;}
+p.left{text-align: left;}
+p.center{text-align: center;}
+p.right{text-align: right;}
