@@ -194,6 +194,10 @@ figure iframe{
   width: 20%;
   margin-right: 30px;
   border-radius: 50%;
+  transition:transform 0.2s ease-in-out 0s;
+}
+.main-visual-img:hover{
+  transform:scale(1.2);
 }
 .main-visual-img img {
   border-radius: 50%;
@@ -243,7 +247,6 @@ figure iframe{
 .btn-denim:hover {
   border-style: solid;
 }
-
 .btn-open {
   display: inline-block;
   max-width: 180px;
